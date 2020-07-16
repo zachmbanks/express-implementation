@@ -1,0 +1,21 @@
+{
+  "name": "node-express-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "htm": "3.0.4",
+    "node-fetch": "2.6.0",
+    "onsenui": "2.10.10",
+    "unpoly": "0.62.1",
+    "vhtml": "2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
