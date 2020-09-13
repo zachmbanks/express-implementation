@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "4.17.1",
     "htm": "3.0.4",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "onsenui": "2.10.10",
     "unpoly": "0.62.1",
     "vhtml": "2.2.0"
